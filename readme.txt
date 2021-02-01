@@ -1,8 +1,8 @@
-#Junior/Mid - Web Developer Test
+# Junior/Mid - Web Developer Test
 
 Eduards Strautmanis
 
-##How to run it locally
+## How to run it locally
 
 Make sure you have Apache, PHP, and MySQL installed. I used XAMPP and MySQLWorkbench to run the project. 
 
