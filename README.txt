@@ -1,4 +1,4 @@
-# Junior/Mid - Web Developer Test
+#→Junior/Mid - Web Developer Test
 
 Eduards Strautmanis
 
